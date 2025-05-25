@@ -41,9 +41,12 @@ pip install kaggle
 ### **Important Note For Running Inference notebooks**
 Challenge-1: After running the training.ipynb file, there will be 5 models saved in your output directory. Please download those model.pth files locally and and make sure to upload it in input directory before running inference.ipynb.
 
+
 Challenge-2: After running the training_.ipynb file, there will be 5 models saved in your output directory. Based on the F1 score, please download the best performing model.pth file and upload it in the input directory before running inference_.ipynb file.
+
 
 Launch Jupyter Notebook or use Google Colab to open the .ipynb files.
 
-License
-This repository is released under the MIT License.
+
+**License
+This repository is released under the MIT License.**
