@@ -38,6 +38,36 @@ To get started:
 pip install kaggle
 ```
 
+### Set up your Kaggle API credentials
+
+To access the dataset from Kaggle via script:
+
+1. Go to your [Kaggle Account Settings](https://www.kaggle.com/account)
+2. Click **"Create New API Token"**
+3. This will download a file named `kaggle.json`
+
+Now move the file to the appropriate location on your system:
+
+```bash
+mkdir -p ~/.kaggle
+mv /path/to/kaggle.json ~/.kaggle/
+chmod 600 ~/.kaggle/kaggle.json
+```
+
+### Run the Dataset Download Script
+
+Once your Kaggle API credentials are set up, run the script provided in the root of this repository:
+
+```bash
+chmod +x download.sh
+./download.sh
+```
+
+After running, your dataset will be available under:
+data/soil_classification-2025/
+
+
+
 ### **Important Note For Running Inference notebooks**
 Challenge-1: After running the training.ipynb file, there will be 5 models saved in your output directory. Please download those model.pth files locally and and make sure to upload it in input directory before running inference.ipynb.
 
