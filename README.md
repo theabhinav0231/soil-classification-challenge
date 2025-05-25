@@ -22,3 +22,6 @@ Transcript File- https://drive.google.com/file/d/1xl5z2g3-Hq4MaclJxRzDlvpS-7Xrzp
   pip install -r requirements.txt
    ```
 Launch Jupyter Notebook or use Google Colab to open the .ipynb files.
+
+License
+This repository is released under the MIT License.
