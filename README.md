@@ -48,6 +48,6 @@ Challenge-2: After running the training_.ipynb file, there will be 5 models save
 Launch Jupyter Notebook or use Google Colab to open the .ipynb files.
 
 
-**License
+**License**
 
-This repository is released under the MIT License.**
+**This repository is released under the MIT License.**
