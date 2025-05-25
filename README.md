@@ -1,8 +1,13 @@
 # Annam.ai Soil Classification Hackathon
 
 The repository has 2 directories for 2 challenges that were provided in Annam.ai Hackathon.
+
 The files for submission are also listed here-
+
+
 Video URL- https://drive.google.com/drive/folders/1UdhJYSvxAE5-2d6GEqAF1aOeOX8JLqBI?usp=sharing
+
+
 Transcript File- https://drive.google.com/file/d/1xl5z2g3-Hq4MaclJxRzDlvpS-7XrzplZ/view?usp=sharing
 
 ## 🛠️ Getting Started
